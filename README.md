@@ -3,3 +3,4 @@
 lol
 foobar
 lol again
+foobar
